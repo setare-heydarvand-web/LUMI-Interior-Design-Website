@@ -66,21 +66,6 @@ During this project I practiced:
 - Mega Menu Design
 - Modern UI Principles
 
----
-
-## 📸 Screenshots
-
-### Hero Section
-
-(Add Image)
-
-### Gallery
-
-(Add Image)
-
-### Footer
-
-(Add Image)
 
 ---
 
